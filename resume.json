@@ -29,8 +29,8 @@
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "PHP"]
 	}],
 	"interests": [{
-		"name": "Sports", "Reading Books",
-		"keywords": ["Football"], ["Psychological", "Marketing"]
+		"name": "Reading Books",
+		"keywords": ["Psychological", "Marketing"]
 	}],
 	"references": []
 }
