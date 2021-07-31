@@ -2,33 +2,10 @@
 	"basics": {
 		"name": "Saurabh Dohaiya",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/157833205_260320719011502_7387546325198334206_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=PN1c4tA4zmkAX8qqSnv&edm=AEF8tYYBAAAA&ccb=7-4&oh=6745a58a7589eaf2a5ec8c6800f4ca2b&oe=610CACC7&_nc_sid=a9513d",
 		"email": "dohaiyasaurabh501@gmail.com",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
-		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
-			"countryCode": "India",
-			"region": "---State Name---"
-		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
-			{
-				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
-			},
-			{
-				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
-			},
+		"summary": "I am Saurabh Dohaiya, pursuing B.Tech. in Computer Science and Engineering.",
+		"profiles": [
 			{
 				"network": "Instagram",
 				"username": "handle",
@@ -36,52 +13,24 @@
 			}
 		]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"startDate": "December 8, 2020 //Date",
 		"endDate": "----",
 		"gpa": "---Add your CGPA ---",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "PHP"]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"name": "Sports", "Reading Books"
+		"keywords": ["Football"], ["Psychological", "Marketing"]
 	}],
 	"references": []
 }
