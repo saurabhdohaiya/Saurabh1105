@@ -29,7 +29,7 @@
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "PHP"]
 	}],
 	"interests": [{
-		"name": "Sports", "Reading Books"
+		"name": "Sports", "Reading Books",
 		"keywords": ["Football"], ["Psychological", "Marketing"]
 	}],
 	"references": []
